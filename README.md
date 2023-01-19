@@ -18,14 +18,9 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ##### The values are retrieved in the conditional statements, that, depending on which type of dice the user chose, it would pull a random value from one of the lists and print it out.
 ##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
 ## Procedural Abstraction:
-### Procedure:
-![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_02_21 PM](https://user-images.githubusercontent.com/89731702/213547580-27a741ee-4386-4379-853f-31985970be5a.png)
-##### This is an input with a paramater, that asks the user how many times they would like to roll the die, and this "try" and "except" makes sure that the value is an integer. If it is not an integer, then the program gives the user an error message.
-![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_18_05 PM](https://user-images.githubusercontent.com/89731702/213550806-09e92f57-21ae-4e1a-a974-1b933069174e.png)
-#### This is an example of calling functions within the program. In the "chooser" function, the user chooses one of three options based on user input, and it calls these function depending on which one the user picks, to run its code.
-## Algorithm:
-#### Sequencing:
+### Code section that includes:
+#### Procedure
+#### Algorithm: 
+##### With Sequencing, Selection, and Iteration
+![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_28_56 PM](https://user-images.githubusercontent.com/89731702/213553185-c3f5618f-0f65-44b7-9f6d-fb0b4cf65b0d.png)
 
-#### Selection:
-
-#### Iteration:
