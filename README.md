@@ -8,6 +8,7 @@ This program asks the user for input, and then generates a random output based o
 ##### Why does it exist / Who is it for?
 I want to make this so that I can have some familiarity and mastery of the Python language. It is meant to be a start on what I might create in the future since, at this point, I am not really confident in many aspects of Python yet. This could be for my friends to try out, just for fun. It also provides a useful tool for people to use as an alternative to the web versions of these things. 
 ### Learned to do something new: 
-Using while loops
+###### Using while loops
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 9_51_10 PM](https://user-images.githubusercontent.com/89731702/213534009-4ee4fc0d-ade4-475b-a4a2-1b63d407cac6.png)
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 9_49_09 PM](https://user-images.githubusercontent.com/89731702/213534038-deecd426-1e76-4e50-b658-d870491b0dcb.png)
+### Data Abstraction
