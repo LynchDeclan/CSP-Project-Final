@@ -21,9 +21,11 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ### Procedure:
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_02_21 PM](https://user-images.githubusercontent.com/89731702/213547580-27a741ee-4386-4379-853f-31985970be5a.png)
 ##### This is an input with a paramater, that asks the user how many times they would like to roll the die, and this "try" and "except" makes sure that the value is an integer. If it is not an integer, then the program gives the user an error message.
-### Algorithm:
+![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_18_05 PM](https://user-images.githubusercontent.com/89731702/213550806-09e92f57-21ae-4e1a-a974-1b933069174e.png)
+#### This is an example of calling function within a program
+## Algorithm:
 #### Sequencing:
-
+##### The program runs from top to bottom, first defining the "title" functions, followed by the "eight_ball" function, and then the "dice_roll" function, and then the "coin_flip" function. all of that is then followed by the function defined as "chooser", and this is the main function of the code that, depending on what the user chooses, runs either the eight_ball, dice_roll, or coin_flip functionws.
 #### Selection:
 
 #### Iteration:
