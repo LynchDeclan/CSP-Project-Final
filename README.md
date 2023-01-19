@@ -1,2 +1,13 @@
 # CSP-Project-Final
+### Video:
 <a href="https://drive.google.com/file/d/12zqncOgtF-f5BnLrTTTSoqKS2aWKUcOL/view">One minute video of code running</a>
+### Functionality Summarisation:
+##### What does it do?
+This program consists of three random output generators that the user can select from: A magic 8-ball, a diceroller, and a coin flipper.
+This program asks the user for input, and then generates a random output based on them selecting a random option from the list of pre-determined answers. It also includes a system where it asks the user if they want to ask another question, roll another die, or flip another coin. For all of them, there is an option to do have multiple questions, rolls, or flips, and for the latter two, there is also an option to roll multiple dice or flip multiple coins in one turn.
+##### Why does it exist / Who is it for?
+I want to make this so that I can have some familiarity and mastery of the Python language. It is meant to be a start on what I might create in the future since, at this point, I am not really confident in many aspects of Python yet. This could be for my friends to try out, just for fun. It also provides a useful tool for people to use as an alternative to the web versions of these things. 
+### Learned to do something new: 
+utlisation of while loops
+
+
