@@ -19,3 +19,4 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
 ## Procedural Abstraction:
 
+
