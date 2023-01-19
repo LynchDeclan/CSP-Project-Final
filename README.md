@@ -20,6 +20,6 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ## Procedural Abstraction:
 ##### I define three main functions in my program that hold all the code for the three main features of the program, the "eight_ball" function, the "dice_roll" function, and the "coin_flip" function. These functions are called at the beginning of the program, in the "chooser" function, which is the function that starts off the program and makes it possible for the user to use the three main functions (eight_ball, dice_roll, coin_flip). This is the code section that includes:
 #### Procedure
-#### Algorithm: 
+#### Algorithm 
 ##### With Sequencing, Selection, and Iteration
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_41_49 PM](https://user-images.githubusercontent.com/89731702/213555032-cdde9307-e2e7-46a8-9025-706158a68cd8.png)
