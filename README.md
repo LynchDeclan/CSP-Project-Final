@@ -18,5 +18,6 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ##### The values are retrieved in the conditional statements, that, depending on which type of dice the user chose, it would pull a random value from one of the lists and print it out.
 ##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
 ## Procedural Abstraction:
-
+### Procedure:
+![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 10_55_31 PM](https://user-images.githubusercontent.com/89731702/213546421-d3bb4a48-c253-435b-817e-2facfc43d988.png)
 
