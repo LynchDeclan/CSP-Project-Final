@@ -23,3 +23,6 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 #### Algorithm 
 ##### With Sequencing, Selection, and Iteration
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_41_49 PM](https://user-images.githubusercontent.com/89731702/213555032-cdde9307-e2e7-46a8-9025-706158a68cd8.png)
+##### The sequencing that takes place in this specific function ("chooser") is how the computer reads the code from top to bottom, starting with the prompt, called "option", which is the one that asks the user to choose one of three random output generators, consisting of the magic 8-ball, the dice roller, and the coin flipper.
+##### Then we we see iteration, through the use of a While Loop, that will keep on running these conditional statements of the code unless the user chooses "exit" in the prompt. 
+##### Then we see selection being used 
