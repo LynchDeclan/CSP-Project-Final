@@ -22,5 +22,4 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 #### Procedure
 #### Algorithm: 
 ##### With Sequencing, Selection, and Iteration
-![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_28_56 PM](https://user-images.githubusercontent.com/89731702/213553185-c3f5618f-0f65-44b7-9f6d-fb0b4cf65b0d.png)
-
+![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_41_49 PM](https://user-images.githubusercontent.com/89731702/213555032-cdde9307-e2e7-46a8-9025-706158a68cd8.png)
