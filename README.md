@@ -14,5 +14,8 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ## Data Abstraction:
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 10_02_16 PM](https://user-images.githubusercontent.com/89731702/213536007-3e149e53-814c-44ce-af62-9afbe207b547.png)
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 10_07_23 PM](https://user-images.githubusercontent.com/89731702/213536962-bc762086-3dad-4d1f-a2b5-b116333ac03d.png)
-##### These are examples of data abstraction. It is in these variables that the values are stored for all the different numbers for the different "sides" of the different type sof dice. 
+##### These are examples of data abstraction. It is in these variables that the values are stored for all the different numbers for the different "sides" of the different type sof dice in lists.
 ##### The values are retrieved in the conditional statements, that, depending on which type of dice the user chose, it would pull a random value from one of the lists and print it out.
+##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
+## Procedural Abstraction:
+
