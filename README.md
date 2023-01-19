@@ -19,5 +19,6 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
 ## Procedural Abstraction:
 ### Procedure:
-![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 10_55_31 PM](https://user-images.githubusercontent.com/89731702/213546421-d3bb4a48-c253-435b-817e-2facfc43d988.png)
-
+![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_02_21 PM](https://user-images.githubusercontent.com/89731702/213547580-27a741ee-4386-4379-853f-31985970be5a.png)
+##### This is an input with a paramater, that asks the user how many times they would like to roll the die, and this "try" and "except" makes sure that the value is an integer. If it is not an integer, then the program gives the user an error message.
+### Algorithm:
