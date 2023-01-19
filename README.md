@@ -22,3 +22,8 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ![CSP-Project-Final_project py at main · LynchDeclan_CSP-Project-Final - Opera 1_19_2023 11_02_21 PM](https://user-images.githubusercontent.com/89731702/213547580-27a741ee-4386-4379-853f-31985970be5a.png)
 ##### This is an input with a paramater, that asks the user how many times they would like to roll the die, and this "try" and "except" makes sure that the value is an integer. If it is not an integer, then the program gives the user an error message.
 ### Algorithm:
+#### Sequencing:
+
+#### Selection:
+
+#### Iteration:
