@@ -18,7 +18,7 @@ I want to make this so that I can have some familiarity and mastery of the Pytho
 ##### The values are retrieved in the conditional statements, that, depending on which type of dice the user chose, it would pull a random value from one of the lists and print it out.
 ##### If I did not include this data abstraction within this part of the program, then there would be nowhere to store the values for the different sides of the different dice. There would be no use for the random function within that section of the code, as there would be no lists to pull random values from. The code simply would not do as it was created to do in the first place.
 ## Procedural Abstraction:
-### Code section that includes:
+##### I define three main functions in my program that hold all the code for the three main features of the program, the "eight_ball" function, the "dice_roll" function, and the "coin_flip" function. These functions are called at the beginning of the program, in the "chooser" function, which is the function that starts off the program and makes it possible for the user to use the three main functions (eight_ball, dice_roll, coin_flip). This is the code section that includes:
 #### Procedure
 #### Algorithm: 
 ##### With Sequencing, Selection, and Iteration
