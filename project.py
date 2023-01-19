@@ -221,10 +221,16 @@ def chooser():
         # These are the options the user can select, but they have to type in everything word-for-word, letter-by-letter, or it will not work
         if option == 'Magic8Ball':
             eight_ball()
+        else:
+            exit()
         if option == 'Diceroll':
             dice_roll()
+        else:
+            exit()
         if option == 'Coinflip':
             coin_flip()
+        else:
+            exit()
     if option == 'exit':
         exit()
 
